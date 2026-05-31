@@ -428,11 +428,10 @@ Computer vision experimentation.
 
 # 👨‍💻 Author
 
-Ayush
-
-GitHub:
-https://github.com/CommitWithAyush
-
+Ayush Kumar Agarwal
+Deepak Bhatt
+Abhay Srivastav
+Karan Singh Dhami
 ---
 
 # 📄 License
